@@ -91,3 +91,5 @@
 ## Histórico de Alinhamentos
 
 - Levantamento inicial discutido com Paulo — 27/05/2026
+
+- **07/07/2026** — Diagnóstico confirmado na prática: atrito reportado pela diretoria com cliente FACISC teve como uma das causas o volume de tickets que o CS escala ao Helper sem necessidade. Análise completa em [[Análise FACISC — Canal Helper — 07-07-2026]]. Treinamento do CS já agendado para semana de 13/07 como mitigação direta deste Action Item.

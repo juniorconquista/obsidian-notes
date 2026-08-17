@@ -29,4 +29,26 @@
 
 🔴 **29/05** — Impressões se confirmando. Lucas está muito perdido, colocando muitos impedimentos para avançar com as atividades. Tem uma tarefa de KYC travada que está bloqueando outras pessoas do time. Junior ajudou a montar uma call com o time de KYC ontem e hoje reuniu mais pessoas para destravar. Precisa de prazo assertivo para conclusão.
 
-> Se o comportamento não mudar, precisamos pensar na continuidade dele no time. Para o papel de Tech Lead, precisa ser mais autônomo, proativo e capaz de buscar soluções sem travar.
+🟡 **01/06 — manhã** — Avanço positivo. Força tarefa na sexta (30/05) com mais pessoas desbloqueou o KYC. Lucas passou o seguinte retorno:
+> *"Segunda-feira eu consigo finalizar as correções e já publicar em QA. Sigo acreditando que no máximo quinta a gente tem os QAs trabalhando na homologação. Ou seja, até quarta pro time dev finalizar."*
+
+🟢 **01/06 — fim do dia** — Lucas cumpriu o que prometeu. Subiu todas as correções da API ainda hoje.
+
+**Realizado:**
+- Correções de contrato da API BFF do Portal / App
+- Correção de formatação de telefone (remoção do '+' antes do DDI — estava quebrando na API de Cards)
+- Correção de erro que incluía automaticamente o produto RTF (ainda não lançado)
+- Julio fez correções no front — testa integração amanhã para publicar em QA/Staging
+
+**Pendente:**
+- Integração do Portal com a API para cadastro de org, pessoas Individual e Lote
+- Integração do App com a API para coleta, refresh e retry de biometria
+- Lucas já sinalizou para saber com quem estão os pendentes e qual a previsão de entrega
+
+**Prazos combinados:**
+- Dev finaliza: quarta-feira 03/06
+- QA em homologação: quinta-feira 04/06
+
+✅ Sinal positivo — Lucas entregou o que prometeu no prazo. Acompanhar os pendentes amanhã.
+
+> Se o comportamento não mudar de forma consistente, precisamos pensar na continuidade dele no papel de Tech Lead.

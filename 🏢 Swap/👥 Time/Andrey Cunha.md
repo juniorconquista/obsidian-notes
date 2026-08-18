@@ -14,7 +14,7 @@
 
 ## Feedbacks Dados
 
-- 31/07/2026 — Devolutiva 1º semestre: [[Feedback semestral — Andrey Cunha — 31-07-2026]]
+- 31/07/2026 — Devolutiva 1º semestre: [[2026-07-31 — Feedback semestral — Andrey Cunha|Feedback semestral — Andrey Cunha — 31-07-2026]]
 
 ## Anotações
 

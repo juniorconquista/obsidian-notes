@@ -19,7 +19,7 @@
 
 ## Histórico de 1:1s
 
-- [[Reunião Rafael Piacenti — App & Status — 02-06-2026]] — Status das atividades e conversa sobre o momento do time
+- [[2026-06-02 — Reunião Rafael Piacenti — App & Status|Reunião Rafael Piacenti — App & Status — 02-06-2026]] — Status das atividades e conversa sobre o momento do time
 
 ## Feedbacks Dados
 

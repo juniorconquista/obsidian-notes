@@ -19,7 +19,7 @@
 
 ## Histórico de 1:1s
 
-- [[1:1 Junior & Lucas Gomes — 28-05-2026]] — Papel no time e expectativa de liderança ativa
+- [[2026-05-28 — 1:1 Junior & Lucas Gomes|1:1 Junior & Lucas Gomes — 28-05-2026]] — Papel no time e expectativa de liderança ativa
 
 ## Feedbacks Dados
 

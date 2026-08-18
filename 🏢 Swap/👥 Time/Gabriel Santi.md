@@ -20,7 +20,7 @@
 
 ## Histórico de 1:1s
 
-- [[1:1 Junior & Gabriel Santi — 29-05-2026]] — Visão sobre o time, processos e futuro
+- [[2026-05-29 — 1:1 Junior & Gabriel Santi|1:1 Junior & Gabriel Santi — 29-05-2026]] — Visão sobre o time, processos e futuro
 
 ## Feedbacks Dados
 
@@ -50,7 +50,7 @@ Aprovação obtida via Sol → Doug e Ale. Sidney conduziu a análise e propôs 
 
 ## 1:1 — 07/07/2026
 
-Conversa de valorização. Junior comunicou reajuste garantido para a janela de agosto. Santi ficou surpreso positivamente — achava que era sobre o RTF. Alinhamento de carreira muito positivo: quer papel de liderança técnica, planejar, refinar e orientar os novos — exatamente a visão do Junior. PDI combinado. Empolgado com o WL 2.0, o comitê de priorização e a chegada dos novos devs. Ver: [[1:1 Junior & Gabriel Santi — 07-07-2026]]
+Conversa de valorização. Junior comunicou reajuste garantido para a janela de agosto. Santi ficou surpreso positivamente — achava que era sobre o RTF. Alinhamento de carreira muito positivo: quer papel de liderança técnica, planejar, refinar e orientar os novos — exatamente a visão do Junior. PDI combinado. Empolgado com o WL 2.0, o comitê de priorização e a chegada dos novos devs. Ver: [[2026-07-07 — 1:1 Junior & Gabriel Santi|1:1 Junior & Gabriel Santi — 07-07-2026]]
 
 ---
 

@@ -76,7 +76,7 @@ Aprovação obtida via Sol → Doug e Ale. Sidney conduziu a análise e propôs 
 
 ## 1:1 — 07/07/2026
 
-Conversa de valorização. Junior comunicou reajuste garantido para a janela de agosto. Pietra recebeu muito bem — está feliz, motivada e engajada. Elogiou a postura de escuta ativa da Raro e destacou a Dani como diferencial enorme no time. Trouxe preocupação genuína com o pós-saída da Dani. Perguntou sobre o valor — Junior desconversou com elegância ("tem uma fatia boa do bolo"). Ver: [[1:1 Junior & Pietra Oliveira — 07-07-2026]]
+Conversa de valorização. Junior comunicou reajuste garantido para a janela de agosto. Pietra recebeu muito bem — está feliz, motivada e engajada. Elogiou a postura de escuta ativa da Raro e destacou a Dani como diferencial enorme no time. Trouxe preocupação genuína com o pós-saída da Dani. Perguntou sobre o valor — Junior desconversou com elegância ("tem uma fatia boa do bolo"). Ver: [[2026-07-07 — 1:1 Junior & Pietra Oliveira|1:1 Junior & Pietra Oliveira — 07-07-2026]]
 
 ---
 

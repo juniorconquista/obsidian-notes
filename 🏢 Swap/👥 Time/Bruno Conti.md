@@ -20,7 +20,7 @@
 
 ## Histórico de 1:1s
 
-- [[1:1 Junior & Bruno Conti — 01-06-2026]] — Alinhamento de expectativas, visão sobre time e processos
+- [[2026-06-01 — 1:1 Junior & Bruno Conti|1:1 Junior & Bruno Conti — 01-06-2026]] — Alinhamento de expectativas, visão sobre time e processos
 
 ## Feedbacks Dados
 

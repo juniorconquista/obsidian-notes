@@ -35,7 +35,7 @@ janeiro de 2027 — depois disso a alocação dela (e a sua) fica em aberto.
 ## Feedbacks Dados
 
 - 31/07/2026 — Feedback de 50 dias, muito positivo, antecipado por você antes da
-  formalização pela Karina (Raro): [[Feedback 50 dias e Continuidade do Time — Dani — 31-07-2026]]
+  formalização pela Karina (Raro): [[2026-07-31 — Feedback 50 dias e Continuidade do Time — Dani|Feedback 50 dias e Continuidade do Time — Dani — 31-07-2026]]
 
 ## Anotações
 

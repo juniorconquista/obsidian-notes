@@ -30,8 +30,8 @@ Casou recentemente e está em fase de adaptação. Tem **depressão** — relato
 
 ## Histórico de 1:1s
 
-- [[1:1 Junior & Túlio Cruz — 01-06-2026]] — Visão sobre time, processos, QA e refinamento
-- [[1:1 Junior & Túlio Cruz — 01-07-2026]] — Feedback sobre atenção e processo de QA. Revelou contexto de depressão. Autocrítica real e boa recepção.
+- [[2026-06-01 — 1:1 Junior & Túlio Cruz|1:1 Junior & Túlio Cruz — 01-06-2026]] — Visão sobre time, processos, QA e refinamento
+- [[2026-07-01 — 1:1 Junior & Túlio Cruz|1:1 Junior & Túlio Cruz — 01-07-2026]] — Feedback sobre atenção e processo de QA. Revelou contexto de depressão. Autocrítica real e boa recepção.
 
 ## Feedbacks Dados
 

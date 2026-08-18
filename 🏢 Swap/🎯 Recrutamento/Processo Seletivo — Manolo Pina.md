@@ -49,7 +49,7 @@ não com o perfil abstrato da vaga.** Três coisas, na ordem de importância:
 1. **Migração de código legado e redução de dívida técnica** aparecem como
    especialidade declarada. Isso é exatamente o que o [[Gabriel Santi]] está
    fazendo à mão no portal — convertendo tela de Razor para React — e o que ele
-   defendeu na [[War Room Niky — 04-08-2026]] como única solução definitiva para o
+   defendeu na [[2026-08-04 — War Room Niky|War Room Niky — 04-08-2026]] como única solução definitiva para o
    legado.
 2. **Otimização de performance** (Core Web Vitals, Lighthouse) e **design system**
    (Storybook, Shadcn). A tela que travou com 26 mil registros na Qualicorp é
@@ -321,7 +321,7 @@ não conseguir falar dele com naturalidade.*
   explícito, uso de IA para gerar a partir da spec — e sabe dizer onde isso falha.
   Isso conecta direto com o problema de o time não ter documentação de jornada de
   produto, apontado pela [[Daniela Melo]] em
-  [[Alinhamento — Comunicação — 04-08-2026]].
+  [[2026-08-04 — Alinhamento — Comunicação|Alinhamento — Comunicação — 04-08-2026]].
 - 🚩 **Fraca:** vira sinônimo de "eu leio a task antes de começar".
 
 ### Performance
@@ -404,7 +404,7 @@ em agosto?** Se for a segunda, ele é o nome mais forte da lista.
 
 **Um cuidado com a premissa da IA.** Ela é razoável e é sua, mas ainda não foi
 testada aqui: a [[Priscila Campos]] acabou de dizer, em
-[[Alinhamento Qualidade e Testes — Priscila Campos — 04-08-2026]], que o problema
+[[2026-08-04 — Alinhamento Qualidade e Testes — Priscila Campos|Alinhamento Qualidade e Testes — Priscila Campos — 04-08-2026]], que o problema
 do time é falta de processo de desenvolvimento com segurança, e que o time não tem
 cultura de teste. Alguém produzindo em stack que não domina, com IA, num código sem
 teste unitário e sem teste de carga, é a combinação exata que gerou os incidentes da

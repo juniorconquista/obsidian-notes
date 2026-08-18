@@ -16,7 +16,7 @@
 para Tech como dev. Processo de migração descrito abaixo, iniciado em 01/07/2026.
 Entra apoiando o Helper junto do [[Andrey Cunha]], terminando antes o treinamento
 de uma pessoa do CSO. Ver
-[[Planning Sprint 15 — White Label — 03-08-2026]].
+[[2026-08-03 — Planning Sprint 15 — White Label|Planning Sprint 15 — White Label — 03-08-2026]].
 
 ---
 
@@ -42,13 +42,13 @@ Ele entra inicialmente apoiando o Helper, mas a expectativa desde o dia zero é 
 
 ## Histórico de conversas
 
-- **01/07/2026, 15:01** — [[Alinhamento Interfaces — André Rabelo — 01-07-2026]].
+- **01/07/2026, 15:01** — [[2026-07-01 — Alinhamento Interfaces — André Rabelo|Alinhamento Interfaces — André Rabelo — 01-07-2026]].
   Você apresentou a proposta com a [[Carol — Líder CS]]; o Paulo Pereira foi
   convidado e não entrou. Ele aceitou na prática ali mesmo — a preocupação era a
   lacuna técnica, já mitigada em conversa anterior com a [[Pietra Oliveira]]. A
   decisão ficou com ele, sem prazo.
 - **03/08/2026** — entrada anunciada ao time na
-  [[Planning Sprint 15 — White Label — 03-08-2026]].
+  [[2026-08-03 — Planning Sprint 15 — White Label|Planning Sprint 15 — White Label — 03-08-2026]].
 
 ## Pendências
 
@@ -57,4 +57,5 @@ Ele entra inicialmente apoiando o Helper, mas a expectativa desde o dia zero é 
   você fez a ele; ele entra em 04/08 sem isso.
 - [ ] Conferir a cobertura de mentoria nas duas primeiras semanas: o
   [[Regis Graf]], apresentado a ele como a estrutura de apoio, está de férias de
-  31/07 por 16 dias — volta em torno de 16/08.
+  31/07 — volta em 19/08 (confirmado; a estimativa anterior de 16 dias/16/08
+  estava errada).

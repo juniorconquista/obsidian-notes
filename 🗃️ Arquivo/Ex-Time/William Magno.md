@@ -23,7 +23,7 @@
 
 ## Histórico de 1:1s
 
-- [[1:1 Junior & William Sodre — 24-06-2026]] — feedback pesado sobre ritmo e criticidade das entregas; William recebeu bem, mas mudança de comportamento não se sustentou
+- [[2026-06-24 — 1:1 Junior & William Sodre|1:1 Junior & William Sodre — 24-06-2026]] — feedback pesado sobre ritmo e criticidade das entregas; William recebeu bem, mas mudança de comportamento não se sustentou
 
 ## Feedbacks Dados
 

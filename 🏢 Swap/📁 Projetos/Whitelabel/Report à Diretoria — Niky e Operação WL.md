@@ -12,7 +12,7 @@ status: ativo
 
 ## Por que existe
 
-Criado em 04/08/2026, decidido em [[Alinhamento — Comunicação — 04-08-2026]]. O
+Criado em 04/08/2026, decidido em [[2026-08-04 — Alinhamento — Comunicação|Alinhamento — Comunicação — 04-08-2026]]. O
 push é do Rodrigo Sol, e a frase dele é a razão de ser:
 
 > *"Vocês têm que assumir o controle da comunicação porque as pessoas vão usar
@@ -109,8 +109,8 @@ e a Niky demonstrou satisfação com o empenho e a prontidão do time.
 
 - **R$ 1.684.738,35** de recarga manual da Qualicorp. O
   [[Gabriel Santi]] confirmou este valor. **Quatro notas do vault registram
-  R$ 202.543** e estão erradas: [[Checkpoint Niky — Operação — 03-08-2026]],
-  [[Tombamento Niky — 03-08-2026]], [[03-08-2026]] e o rascunho antigo. Precisam
+  R$ 202.543** e estão erradas: [[2026-08-03 — Checkpoint Niky — Operação|Checkpoint Niky — Operação — 03-08-2026]],
+  [[2026-08-03 — Tombamento Niky|Tombamento Niky — 03-08-2026]], [[2026-08-03]] e o rascunho antigo. Precisam
   ser corrigidas.
 - **R$ 45 mi + R$ 25 mi de TPV.** Falta registrar **o período** — mensal,
   acumulado ou desde o início. Para diretoria isso muda a leitura.

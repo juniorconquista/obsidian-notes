@@ -21,7 +21,7 @@
 
 ## Histórico de 1:1s
 
-- [[1:1 Junior & Stive Tormes — 08-06-2026]] — Contexto histórico, motivos da saída, visão do time e do produto
+- [[2026-06-08 — 1:1 Junior & Stive Tormes|1:1 Junior & Stive Tormes — 08-06-2026]] — Contexto histórico, motivos da saída, visão do time e do produto
 
 ## Feedbacks Dados
 

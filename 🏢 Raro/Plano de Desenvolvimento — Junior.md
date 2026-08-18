@@ -219,7 +219,7 @@ quando a meta **7A** do time é justamente atacar causa raiz de problema recorre
 
 ## Por que isso vira problema no 2º semestre
 
-O [[Segunda Rodada Metas 2S — Doug & Gestores — 03-08-2026|Doug]] fixou na review de
+O [[2026-08-03 — Segunda Rodada Metas 2S — Doug & Gestores|Doug]] fixou na review de
 07/08 que cada pessoa contrata **uma entrega necessariamente atrelada a IA**. Se o
 trabalho de IA do time é invisível no reconhecimento, tende a ficar invisível na
 avaliação — a pessoa entrega, ninguém vê, e a nota não reflete.
@@ -282,7 +282,7 @@ E o que o cliente disse, na visita presencial à Niky em **13/08**:
   percepção acontecendo na frente do cliente.
 - **A Luma Gomes Leonardo foi citada pelo nome**, no palco, por alguém de
   fora do time — a mesma pessoa que achou a causa raiz do desbloqueio de cartão
-  no [[War Room Niky — 05-08-2026|war room de 05/08]].
+  no [[2026-08-05 — War Room Niky|war room de 05/08]].
 - **O reconhecimento veio de quem mais foi reconhecido na empresa.** O Thales
   tinha o palco e podia falar de qualquer coisa. Falou do seu time.
 
